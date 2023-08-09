@@ -1,2 +1,3 @@
-# metricsWG
-COARA WG on "Responsible metrics and indicators"
+# COARA Working Groups on "Responsible metrics and indicators"
+
+TBA
