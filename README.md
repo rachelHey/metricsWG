@@ -1,6 +1,23 @@
 # COARA Working Groups on "Responsible metrics and indicators"
 
-About the working group (TBD)
+## Objectives
+The WG has three objectives, tackled in three stages (Oct. 23 - Sept. 25):
+
+**Stage 1**: Assessing the status quo: Which indicators are currently employed? 
+We investigate this across varied disciplines and cultural contexts, specifically in the evaluation of researchers, awards, institutional assessments, and the progression of scientific advancement (like tenure, PhD, habilitation, professor titles, etc.). Starting with CoARA members, institutions are asked to provide information on their current usage of indicators via a structured survey.
+
+**Stage 2**: Critical evaluation of the indicators and recommendations. Based on the survey results, we develop guiding questions and recommendations (2a) when to use indicators (and when not), and (2b) how to integrate their usage with qualitative modes of assessment. This could be a decision path diagram, and will not be a “one size fits all” recommendation.
+
+**Stage 3**: Strategic plan for dissemination of recommendations. Share findings, strategies, and recommendations with a wider audience, emphasizing their applicability across disciplines and cultures.
+
+
+## How you can contribute:
+
+**High involvement**: You are welcome to join as a WG member institution. For this, you should be a representative of an official CoARA member, and be ready to attend and contribute to the WG meetings (~quarterly). In the shortest time frame, this means that you can contribute to the development of the Stage 1 survey; in the longer run, you will be able to work with us more directly on the recommendations (though, of course, we’re always open to more impromptu input from any member of the broader community).
+
+**Medium involvement**: Your institution can provide answers in the piloting phase of our Stage 1 survey and give feedback during the development of the recommendations.
+
+**Low involvement**: Simply fill out the final survey (starting ~Oct 2024).
 
 ## Member organizations
 
@@ -22,8 +39,7 @@ The following CoARA members are active members of this working group:
 - Roma Tre University, Department of Science (Italy)
 - Polish Academy of Sciences, Committee of Future Studies (Poland)
 
-
-If you want to join, please [get in contact](#how-to-get-in-contact) with us!
+If you want to join the WG, please [get in contact](#how-to-get-in-contact) with us!
 
 ## Structure
 
