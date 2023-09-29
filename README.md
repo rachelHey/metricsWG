@@ -3,12 +3,12 @@
 ## Objectives
 The WG has three objectives, tackled in three stages (Oct. 23 - Sept. 25):
 
-**Stage 1**: Assessing the status quo: Which indicators are currently employed? 
+**Stage 1**: *Assessing the status quo: Which indicators are currently employed?* 
 We investigate this across varied disciplines and cultural contexts, specifically in the evaluation of researchers, awards, institutional assessments, and the progression of scientific advancement (like tenure, PhD, habilitation, professor titles, etc.). Starting with CoARA members, institutions are asked to provide information on their current usage of indicators via a structured survey.
 
-**Stage 2**: Critical evaluation of the indicators and recommendations. Based on the survey results, we develop guiding questions and recommendations (2a) when to use indicators (and when not), and (2b) how to integrate their usage with qualitative modes of assessment. This could be a decision path diagram, and will not be a “one size fits all” recommendation.
+**Stage 2**: *Critical evaluation of the indicators and recommendations.* Based on the survey results, we develop guiding questions and recommendations (2a) when to use indicators (and when not), and (2b) how to integrate their usage with qualitative modes of assessment. This could be a decision path diagram, and will not be a “one size fits all” recommendation.
 
-**Stage 3**: Strategic plan for dissemination of recommendations. Share findings, strategies, and recommendations with a wider audience, emphasizing their applicability across disciplines and cultures.
+**Stage 3**: *Strategic plan for dissemination of recommendations.* Share findings, strategies, and recommendations with a wider audience, emphasizing their applicability across disciplines and cultures.
 
 
 ## How you can contribute:
@@ -50,7 +50,7 @@ The steering committee consists of four persons:
 - Rachel Heyard (Swiss Reproducibility Network)
 - Davide Crepaldi (Italian Reproducibility Network)
 
-Primary contacts towards CoARA are Katarzyna Nawrot and Felix Schönbrodt.
+Primary contacts towards the CoARA Steering Committee are Katarzyna Nawrot and Felix Schönbrodt.
 
 In general WG meetings, each member organization sends one representative.
 
