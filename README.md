@@ -56,9 +56,9 @@ In general WG meetings, each member organization sends one representative.
 
 ## How to get involved and stay in contact
 
-If you want to be involved in our WG fill in [the application form](https://docs.google.com/forms/d/e/1FAIpQLSel_-8VMePnxEmZQsODbHl7gKR85fPeQq16v5MIxNFc6s0JSg/viewform?usp=sf_link) to become a member. If you are accepted (which you most likely will), we will include you in all communication.
+You can directly subscribe to our public [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdZ60aB_7p69MCG5W_NfWBOU-QYctQvwO1Q0Om2KJYeh-b-6w/viewform?usp=sf_link). If you want to unsubscribe please inform a member of the steering committee. 
 
-You can also subscribe to our public [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdZ60aB_7p69MCG5W_NfWBOU-QYctQvwO1Q0Om2KJYeh-b-6w/viewform?usp=sf_link). If you want to unsubscribe please inform a member of the steering committee. 
+To become an official member organization of our WG fill in [the application form](https://docs.google.com/forms/d/e/1FAIpQLSel_-8VMePnxEmZQsODbHl7gKR85fPeQq16v5MIxNFc6s0JSg/viewform?usp=sf_link). If you are accepted (which you most likely will - if you represent a COARA member), we will include you in all communication and meetings.
 
 For other direct inquiries, you can contact any member of the steering committee:
 
