@@ -38,8 +38,9 @@ The following CoARA members are active members of this working group:
 - Molde University College (Norway)
 - Roma Tre University, Department of Science (Italy)
 - Polish Academy of Sciences, Committee of Future Studies (Poland)
+- Università di Pisa (Italy)
 
-If you want to join the WG, please [get in contact](#how-to-get-in-contact) with us!
+If you want to join the WG, please [get in contact](#how-to-get-in-involved-and-stay-in-contact) with us!
 
 ## Structure
 
