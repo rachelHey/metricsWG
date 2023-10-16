@@ -39,6 +39,7 @@ The following CoARA members are active members of this working group:
 - Roma Tre University, Department of Science (Italy)
 - Polish Academy of Sciences, Committee of Future Studies (Poland)
 - Università di Pisa (Italy)
+- University of Cyprus (Cyprus)
 
 If you want to join the WG, please [get in contact](#how-to-get-in-involved-and-stay-in-contact) with us!
 
