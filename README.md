@@ -1,5 +1,14 @@
 # COARA Working Groups on "Responsible metrics and indicators"
 
+This working group (WG) aims to gather responsible and efficient quality indicators to facilitate initial quality screening and assessment of research outputs in situations where in-depth qualitative assessment via peer-review is not feasible. The challenge is to preserve the advantages of indicators – objectivity and efficiency – while improving their validity. 
+
+This WG aligns with the CoARA vision by complementing CoARA’s commitment to qualitative assessment with transparent and valid indicators: 
+
+
+> ✅ **We do not always use indicators – but when we do, they need to be *valid*, *reproducible*, *efficient* and *non-proprietary***. 
+
+The indicators are supposed to pertain to a broad range of research outputs (including publications, data sets, research software), various assessment scenarios (hiring, promotion, funding, monitoring), and various units of assessment (including research outputs, researchers, institutions).
+
 ## Objectives
 The WG has three objectives, tackled in three stages (Oct. 23 - Sept. 25):
 
