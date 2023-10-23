@@ -30,25 +30,26 @@ We investigate this across varied disciplines and cultural contexts, specificall
 
 ## Member organizations
 
-The following CoARA members are active members of this working group:
+The following CoARA members are active members of this working group (no specific ordering):
 
 - German Psychological Society (Germany)
-- Swiss Reproducibility Network (Switzerland)
-- CWTS Leiden (Netherlands)
-- Aix-Marseille University (France)
 - Leibniz Association: IWM Institut für Wissensmedien (Germany)
 - Leibniz Association: Leibniz Institute for Psychology, ZPID (Germany)
-- Swedish Reproducibility Network (Sweden)
 - BIH / Charité Berlin (Germany)
+- Swiss Reproducibility Network (Switzerland)
 - Italian Reproducibility Network (Italy)
+- Università di Pisa (Italy)
+- Roma Tre University, Department of Science (Italy)
+- CWTS Leiden (Netherlands)
+- Aix-Marseille University (France)
+- Swedish Reproducibility Network (Sweden)
 - Tbilisi Medical Academy (Georgia)
 - Sociedad Científica de Bibliometría y Cienciometria (Peru)
 - International Consortium of Research Staff Associations (Global)
 - Molde University College (Norway)
-- Roma Tre University, Department of Science (Italy)
 - Polish Academy of Sciences, Committee of Future Studies (Poland)
-- Università di Pisa (Italy)
 - University of Cyprus (Cyprus)
+- Vrije Universiteit Brussel (Belgium)
 
 If you want to join the WG, please [get in contact](#how-to-get-in-involved-and-stay-in-contact) with us!
 
