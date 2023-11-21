@@ -47,7 +47,7 @@ The following CoARA members are active members of this working group (no specifi
 - Sociedad Científica de Bibliometría y Cienciometria (Peru)
 - International Consortium of Research Staff Associations (Global)
 - Molde University College (Norway)
-- Polish Academy of Sciences, Committee of Future Studies (Poland)
+- Poznan University of Economics and Business (Poland)
 - University of Cyprus (Cyprus)
 - Vrije Universiteit Brussel (Belgium)
 
