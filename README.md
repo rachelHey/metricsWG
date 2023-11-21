@@ -66,7 +66,7 @@ Primary contacts towards the CoARA Steering Committee are Katarzyna Nawrot and F
 
 In general WG meetings, each member organization sends one representative.
 
-## WG membershop types
+## WG membership types
 - "Members" of the WG are CoARA members (i.e., institutions), represented by a concrete person.
 - "Experts" of the WG are individual persons who are experts in the field, but are not officially representing a CoARA member. The WG can (proactively) contact them for consultation.
 - "Friends" of the WG are generally interested persons who want to simply stay informed.  
