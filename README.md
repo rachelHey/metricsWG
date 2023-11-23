@@ -39,7 +39,6 @@ The following CoARA members are active members of this working group (no specifi
 - Italian Reproducibility Network (Italy)
 - Università di Pisa (Italy)
 - Roma Tre University, Department of Science (Italy)
-- CWTS Leiden (Netherlands)
 - Aix-Marseille University (France)
 - Université Côte d'Azur (France)
 - Swedish Reproducibility Network (Sweden)
