@@ -44,6 +44,7 @@ The following CoARA members are active members of this working group (no specifi
 - Roma Tre University, Department of Science (Italy)
 - Aix-Marseille University (France)
 - Université Côte d'Azur (France)
+- University of Luxembourg (Luxembourg)
 - Swedish Reproducibility Network (Sweden)
 - Tbilisi Medical Academy (Georgia)
 - Sociedad Científica de Bibliometría y Cienciometria (Peru)
