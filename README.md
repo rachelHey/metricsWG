@@ -43,6 +43,7 @@ The following CoARA members are active members of this working group (no specifi
 - Università di Pisa (Italy)
 - Roma Tre University, Department of Science (Italy)
 - Italian Institute of Technology (Italy)
+- IMT School for Advanced Studies Lucca (Italy)
 - Aix-Marseille University (France)
 - Université Côte d'Azur (France)
 - University of Luxembourg (Luxembourg)
@@ -50,11 +51,13 @@ The following CoARA members are active members of this working group (no specifi
 - Tbilisi Medical Academy (Georgia)
 - Sociedad Científica de Bibliometría y Cienciometria (Peru)
 - CERN - European Organization for Nuclear Research (Europe)
+- UAS4EUROPE - Universities of Applied Sciences for Europe (Europe)
 - International Consortium of Research Staff Associations (Global)
 - Molde University College (Norway)
 - Poznan University of Economics and Business (Poland)
 - University of Cyprus (Cyprus)
 - Vrije Universiteit Brussel (Belgium)
+- Hungarian Academy of Sciences (Hungary)
 
 If you want to join the WG, please [get in contact](#how-to-get-in-involved-and-stay-in-contact) with us!
 
