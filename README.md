@@ -48,6 +48,7 @@ The following CoARA members are active members of this working group (no specifi
 - Université Côte d'Azur (France)
 - University of Luxembourg (Luxembourg)
 - Swedish Reproducibility Network (Sweden)
+- Karlstad University (Sweden)
 - Tbilisi Medical Academy (Georgia)
 - Sociedad Científica de Bibliometría y Cienciometria (Peru)
 - CERN - European Organization for Nuclear Research (Europe)
