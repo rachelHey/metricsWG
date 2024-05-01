@@ -39,6 +39,7 @@ The following CoARA members are active members of this working group (no specifi
 - Leibniz Association: Leibniz Institute for Psychology, ZPID (Germany)
 - BIH / Charité Berlin (Germany)
 - Swiss Reproducibility Network (Switzerland)
+- EPFL – Swiss Federal Institute of Technology in Lausanne (Switzerland)
 - Italian Reproducibility Network (Italy)
 - Università di Pisa (Italy)
 - Roma Tre University, Department of Science (Italy)
