@@ -45,6 +45,7 @@ The following CoARA members are active members of this working group (no specifi
 - Roma Tre University, Department of Science (Italy)
 - Italian Institute of Technology (Italy)
 - IMT School for Advanced Studies Lucca (Italy)
+- University of Ferrara (Italy)
 - Aix-Marseille University (France)
 - Université Côte d'Azur (France)
 - University of Luxembourg (Luxembourg)
