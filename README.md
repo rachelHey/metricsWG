@@ -63,7 +63,8 @@ The following CoARA members are active members of this working group (no specifi
 - Vrije Universiteit Brussel (Belgium)
 - Hungarian Academy of Sciences (Hungary)
 - Masaryk University (Czechia)
-- Finnish Learned Societies (Finland) 
+- Finnish Learned Societies (Finland)
+- BOKU University (Austria)
 
 If you want to join the WG, please [get in contact](#how-to-get-in-involved-and-stay-in-contact) with us!
 
