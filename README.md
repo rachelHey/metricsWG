@@ -65,6 +65,7 @@ The following CoARA members are active members of this working group (no specifi
 - Masaryk University (Czechia)
 - Finnish Learned Societies (Finland)
 - BOKU University (Austria)
+- University of Monterrey (Mexico)
 
 If you want to join the WG, please [get in contact](#how-to-get-in-involved-and-stay-in-contact) with us!
 
