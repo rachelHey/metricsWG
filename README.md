@@ -1,10 +1,21 @@
 # COARA Working Groups on "Responsible metrics and indicators"
 
+This working group (WG) aims to gather responsible and efficient quality indicators to facilitate initial quality screening and assessment of research outputs in situations where in-depth qualitative assessment via peer-review is not feasible. The challenge is to preserve the advantages of indicators – objectivity and efficiency – while improving their validity. 
+
+This WG aligns with the CoARA vision by complementing CoARA’s commitment to qualitative assessment with transparent and valid indicators: 
+
+> ✅ **We do not always use indicators – but when we do, they need to be *valid*, *reproducible*, *efficient* and *non-proprietary***. 
+
+The indicators are supposed to pertain to a broad range of research outputs (including publications, data sets, research software), various assessment scenarios (hiring, promotion, funding, monitoring), and various units of assessment (including research outputs, researchers, institutions).
+
 ## Objectives
 The WG has three objectives, tackled in three stages (Oct. 23 - Sept. 25):
 
 **Stage 1**: *Assessing the status quo: Which indicators are currently employed?* 
-We investigate this across varied disciplines and cultural contexts, specifically in the evaluation of researchers, awards, institutional assessments, and the progression of scientific advancement (like tenure, PhD, habilitation, professor titles, etc.). Starting with CoARA members, institutions are asked to provide information on their current usage of indicators via a structured survey.
+
+- We investigate this across varied disciplines and cultural contexts, specifically in the evaluation of researchers, awards, institutional assessments, and the progression of scientific advancement (like tenure, PhD, habilitation, professor titles, etc.).
+- Starting with CoARA members, institutions are asked to provide information on their current usage of indicators via a structured survey.
+- This set of already employed indicators gets *augmented* by new indicators that cover underrepresented aspects, such as open science aspects of research.
 
 **Stage 2**: *Critical evaluation of the indicators and recommendations.* Based on the survey results, we develop guiding questions and recommendations (2a) when to use indicators (and when not), and (2b) how to integrate their usage with qualitative modes of assessment. This could be a decision path diagram, and will not be a “one size fits all” recommendation.
 
@@ -21,25 +32,42 @@ We investigate this across varied disciplines and cultural contexts, specificall
 
 ## Member organizations
 
-The following CoARA members are active members of this working group:
+The following CoARA members are active members of this working group (no specific ordering):
 
 - German Psychological Society (Germany)
-- Swiss Reproducibility Network (Switzerland)
-- CWTS Leiden (Netherlands)
-- Aix-Marseille University (France)
 - Leibniz Association: IWM Institut für Wissensmedien (Germany)
 - Leibniz Association: Leibniz Institute for Psychology, ZPID (Germany)
-- Swedish Reproducibility Network (Sweden)
 - BIH / Charité Berlin (Germany)
+- Swiss Reproducibility Network (Switzerland)
+- EPFL – Swiss Federal Institute of Technology in Lausanne (Switzerland)
 - Italian Reproducibility Network (Italy)
+- Università di Pisa (Italy)
+- Roma Tre University, Department of Science (Italy)
+- Italian Institute of Technology (Italy)
+- IMT School for Advanced Studies Lucca (Italy)
+- University of Ferrara (Italy)
+- Aix-Marseille University (France)
+- Université Côte d'Azur (France)
+- University of Luxembourg (Luxembourg)
+- Swedish Reproducibility Network (Sweden)
+- Karlstad University (Sweden)
 - Tbilisi Medical Academy (Georgia)
 - Sociedad Científica de Bibliometría y Cienciometria (Peru)
+- CERN - European Organization for Nuclear Research (Europe)
+- UAS4EUROPE - Universities of Applied Sciences for Europe (Europe)
+- OpenAIRE AMKE (Europe)
 - International Consortium of Research Staff Associations (Global)
 - Molde University College (Norway)
-- Roma Tre University, Department of Science (Italy)
-- Polish Academy of Sciences, Committee of Future Studies (Poland)
+- Poznan University of Economics and Business (Poland)
+- University of Cyprus (Cyprus)
+- Vrije Universiteit Brussel (Belgium)
+- Hungarian Academy of Sciences (Hungary)
+- Masaryk University (Czechia)
+- Finnish Learned Societies (Finland)
+- BOKU University (Austria)
+- University of Monterrey (Mexico)
 
-If you want to join the WG, please [get in contact](#how-to-get-in-contact) with us!
+If you want to join the WG, please [get in contact](#how-to-get-in-involved-and-stay-in-contact) with us!
 
 ## Structure
 
@@ -54,11 +82,18 @@ Primary contacts towards the CoARA Steering Committee are Katarzyna Nawrot and F
 
 In general WG meetings, each member organization sends one representative.
 
+## WG membership types
+- "Members" of the WG are CoARA members (i.e., institutions), represented by a concrete person.
+- "Experts" of the WG are individual persons who are experts in the field, but are not officially representing a CoARA member. The WG can (proactively) contact them for consultation.
+- "Friends" of the WG are generally interested persons who want to simply stay informed.  
+
 ## How to get involved and stay in contact
 
-If you want to be involved in our WG fill in [the application form](https://docs.google.com/forms/d/e/1FAIpQLSel_-8VMePnxEmZQsODbHl7gKR85fPeQq16v5MIxNFc6s0JSg/viewform?usp=sf_link) to become a member. If you are accepted (which you most likely will), we will include you in all communication.
+You can directly subscribe to our public [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdZ60aB_7p69MCG5W_NfWBOU-QYctQvwO1Q0Om2KJYeh-b-6w/viewform?usp=sf_link). Our public mailing list is specifically targeted at the "Friends" of our WG. If you want to unsubscribe please inform a member of the steering committee. 
 
-You can also subscribe to our public [mailing list](https://docs.google.com/forms/d/e/1FAIpQLSdZ60aB_7p69MCG5W_NfWBOU-QYctQvwO1Q0Om2KJYeh-b-6w/viewform?usp=sf_link). If you want to unsubscribe please inform a member of the steering committee. 
+To become an official member organization of our WG fill in [the application form](https://docs.google.com/forms/d/e/1FAIpQLSel_-8VMePnxEmZQsODbHl7gKR85fPeQq16v5MIxNFc6s0JSg/viewform?usp=sf_link). If you are accepted (which you most likely will - if you represent a COARA member), we will include you in all communication and meetings. 
+
+To become an expert of our WG fill in [the registration form](https://docs.google.com/forms/d/e/1FAIpQLSfacI2KaRGatEDRkINmHWV7yznY04IPHqzHj5qTDOXSNpLjoQ/viewform?usp=sf_link). We might contact you proactively for consultation or invite you to specific meetings of the WG. 
 
 For other direct inquiries, you can contact any member of the steering committee:
 
