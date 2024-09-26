@@ -48,6 +48,7 @@ The following CoARA members are active members of this working group (no specifi
 - IMT School for Advanced Studies Lucca (Italy)
 - University of Ferrara (Italy)
 - Aix-Marseille University (France)
+- Université Paris Cité (France)
 - Université Côte d'Azur (France)
 - University of Luxembourg (Luxembourg)
 - Swedish Reproducibility Network (Sweden)
