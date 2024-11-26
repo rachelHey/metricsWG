@@ -39,6 +39,7 @@ The following CoARA members are active members of this working group (no specifi
 - Leibniz Association: Leibniz Institute for Psychology, ZPID (Germany)
 - BIH / Charité Berlin (Germany)
 - Berlin University Alliance (Germany)
+- Alexander von Humboldt Foundation
 - Swiss Reproducibility Network (Switzerland)
 - EPFL – Swiss Federal Institute of Technology in Lausanne (Switzerland)
 - Italian Reproducibility Network (Italy)
@@ -69,6 +70,7 @@ The following CoARA members are active members of this working group (no specifi
 - BOKU University (Austria)
 - University of Monterrey (Mexico)
 - CRG - Centre for Genomic Regulation (Spain)
+- Young Academy of Slovenia (Slovenia)
 
 If you want to join the WG, please [get in contact](#how-to-get-in-involved-and-stay-in-contact) with us!
 
