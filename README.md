@@ -41,7 +41,7 @@ The following CoARA members are active members of this working group (no specifi
 - Berlin University Alliance (Germany)
 - Alexander von Humboldt Foundation
 - Swiss Reproducibility Network (Switzerland)
-- EPFL – Swiss Federal Institute of Technology in Lausanne (Switzerland)
+- EPFL - Swiss Federal Institute of Technology in Lausanne (Switzerland)
 - Italian Reproducibility Network (Italy)
 - Università di Pisa (Italy)
 - Roma Tre University, Department of Science (Italy)
@@ -72,6 +72,7 @@ The following CoARA members are active members of this working group (no specifi
 - BOKU University (Austria)
 - University of Monterrey (Mexico)
 - CRG - Centre for Genomic Regulation (Spain)
+- AQuAs - Agency for Health Quality and Assessment of Catalonia (Spain)
 - Young Academy of Slovenia (Slovenia)
 
 If you want to join the WG, please [get in contact](#how-to-get-in-involved-and-stay-in-contact) with us!
