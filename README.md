@@ -49,6 +49,7 @@ The following CoARA members are active members of this working group (no specifi
 - IMT School for Advanced Studies Lucca (Italy)
 - University of Ferrara (Italy)
 - Università degli Studi di Milano (Italy)
+- University of Messina (Italy)
 - Aix-Marseille University (France)
 - Université Paris Cité (France)
 - Université Côte d'Azur (France)
