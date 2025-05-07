@@ -17,6 +17,9 @@ The WG has three objectives, tackled in three stages (Oct. 23 - Sept. 25):
 - Starting with CoARA members, institutions are asked to provide information on their current usage of indicators via a structured survey.
 - This set of already employed indicators gets *augmented* by new indicators that cover underrepresented aspects, such as open science aspects of research.
 
+> ✅ The survey is available here (until 2025-06-08): [https://surveys.osc.lmu.de/RMI](https://surveys.osc.lmu.de/RMI)
+> The survey questions are published under a CC-BY4.0 license at [Zenodo](https://zenodo.org/records/15297248).
+
 **Stage 2**: *Critical evaluation of the indicators and recommendations.* Based on the survey results, we develop guiding questions and recommendations (2a) when to use indicators (and when not), and (2b) how to integrate their usage with qualitative modes of assessment. This could be a decision path diagram, and will not be a “one size fits all” recommendation.
 
 **Stage 3**: *Strategic plan for dissemination of recommendations.* Share findings, strategies, and recommendations with a wider audience, emphasizing their applicability across disciplines and cultures.
@@ -28,7 +31,7 @@ The WG has three objectives, tackled in three stages (Oct. 23 - Sept. 25):
 
 **Medium involvement**: Your institution can provide answers in the piloting phase of our Stage 1 survey and give feedback during the development of the recommendations.
 
-**Low involvement**: Simply fill out the final survey (starting ~Oct 2024).
+**Low involvement**: Simply fill out the final survey (live until 2025-06-08).
 
 ## Member organizations
 
