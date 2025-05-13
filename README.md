@@ -57,6 +57,7 @@ The following CoARA members are active members of this working group (no specifi
 - Université Paris Cité (France)
 - Université Côte d'Azur (France)
 - Université Lumière Lyon 2 (France)
+- MNHN - Museum National d'Histoire Naturelle (France)
 - University of Luxembourg (Luxembourg)
 - Swedish Reproducibility Network (Sweden)
 - Karlstad University (Sweden)
