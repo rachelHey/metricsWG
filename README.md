@@ -66,6 +66,7 @@ The following CoARA members are active members of this working group (no specifi
 - CERN - European Organization for Nuclear Research (Europe)
 - UAS4EUROPE - Universities of Applied Sciences for Europe (Europe)
 - OpenAIRE AMKE (Europe)
+- GCPA - Good Clinical Practice Alliance (Europe)
 - International Consortium of Research Staff Associations (Global)
 - Molde University College (Norway)
 - Poznan University of Economics and Business (Poland)
