@@ -75,6 +75,7 @@ The following CoARA members are active members of this working group (no specifi
 - Hungarian Academy of Sciences (Hungary)
 - Masaryk University (Czechia)
 - Finnish Learned Societies (Finland)
+- Häme University of Applied Sciences (Finland)
 - BOKU University (Austria)
 - University of Monterrey (Mexico)
 - CRG - Centre for Genomic Regulation (Spain)
