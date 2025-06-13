@@ -81,7 +81,8 @@ The following CoARA members are active members of this working group (no specifi
 - CRG - Centre for Genomic Regulation (Spain)
 - AQuAs - Agency for Health Quality and Assessment of Catalonia (Spain)
 - Young Academy of Slovenia (Slovenia)
-
+- Corvinus University of Budapest (Hungary)
+- 
 If you want to join the WG, please [get in contact](#how-to-get-in-involved-and-stay-in-contact) with us!
 
 ## Structure
